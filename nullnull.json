@@ -1,0 +1,1 @@
+{"grammarName":"3","noTerminalSimbols":["S","P"],"terminalSimbols":["a","b"],"productions":[{"noTerminalSimbol":"S","production":"aP"},{"noTerminalSimbol":"P","production":"aab"}],"axiomSimbol":"S"}
